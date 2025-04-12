@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "558025932981",
+    "project_id": "payplus-e8557",
+    "storage_bucket": "payplus-e8557.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558025932981:android:506e7dccffd51024f57efc",
+        "android_client_info": {
+          "package_name": "com.payplus.pay_plus_mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGDQCRAlw9QXVYWtqiIwZ5HzYeC-3UU_s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
